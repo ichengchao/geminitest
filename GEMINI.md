@@ -12,7 +12,7 @@ The core functionality revolves around CRUD (Create, Read, Update, Delete) opera
 
 - **Backend:** Java 21, Spring Boot 3.4.3
 - **Build:** Maven
-- **Frontend:** Static HTML, JavaScript
+- **Frontend:** Static HTML, JavaScript ,Extjs4.1 
 
 ## Commands
 
