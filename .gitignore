@@ -49,3 +49,6 @@ build/
 
 ### logs ###
 logs/
+
+### env files ###
+.env
